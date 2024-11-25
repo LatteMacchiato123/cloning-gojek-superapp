@@ -180,7 +180,7 @@ body {
    
 }
 .swiper-slide {
-    width: 358px;
+    width: 16vw;
     /* margin-right: 30px; */
     flex-shrink: 0;
     position: relative;
